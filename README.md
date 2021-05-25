@@ -24,7 +24,7 @@ The website will contain a form for those who want to do volunteering for the ch
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s12.png)
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s13.png)
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s14.png)
-![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s15.png)
+
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s16.png)
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s17.png)
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s18.png)
