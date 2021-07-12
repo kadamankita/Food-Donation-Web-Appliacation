@@ -8,7 +8,7 @@ The proposed website is online and will not be time-consuming, which is very use
 In this website the donor will get the form to fill for donation. Donor can donate raw or cooked food.In the website there is a  option of donation where you can donate money.
 The website will contain a form for those who want to do volunteering for the charity.
 
-## 📸 Research
+## 📸 Snapshots
 
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s1.png)
 ![](https://github.com/kadamankita/Food-Donation-Web-Appliacation/blob/main/s2.png)
